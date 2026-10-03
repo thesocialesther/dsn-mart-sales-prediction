@@ -1,0 +1,12 @@
+{
+  "selected": "Product residual shrink 100",
+  "cv_rmse": 1073.313700645252,
+  "previous_cv_rmse": 1073.6421072713474,
+  "second_seed_rmse": 1073.9336089469905,
+  "previous_second_seed_rmse": 1074.3861810976582,
+  "previously_inspected_holdout_rmse": 1069.4165470010673,
+  "target_rmse": 50,
+  "target_met_on_both_cv_checks": false,
+  "new_submission_created": true,
+  "note": "Model-selection and reused-data diagnostics; no claimed leaderboard improvement or proven error floor."
+}

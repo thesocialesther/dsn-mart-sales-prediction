@@ -1,0 +1,15 @@
+{
+  "selected": "Store-price spline alpha 1.0",
+  "members": [
+    "Store-price spline alpha 1.0"
+  ],
+  "cv_rmse": 1073.6421072713474,
+  "original_cv_rmse": 1080.3186937157357,
+  "cv_improvement": 6.676586444388249,
+  "folds_improved": 3,
+  "diagnostic_holdout_rmse": 1070.0202450776223,
+  "diagnostic_holdout_mae": 757.711979758664,
+  "original_holdout_rmse": 1067.239452009752,
+  "new_submission_created": true,
+  "note": "Previously inspected holdout; no claimed untouched test or guaranteed leaderboard gain."
+}

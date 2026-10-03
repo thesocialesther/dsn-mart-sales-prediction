@@ -1,0 +1,18 @@
+{
+  "selected": "Previous unscaled spline",
+  "repeated_cv_rmse": 1074.4841420439557,
+  "previous_repeated_cv_rmse": 1074.4841420439557,
+  "cv_improvement": 0.0,
+  "seed42_rmse": 1073.6421072713474,
+  "folds_improved_out_of_15": 0,
+  "diagnostic_holdout_rmse": 1070.0202450776223,
+  "previous_diagnostic_holdout_rmse": 1070.0202450776223,
+  "normalization_selected": false,
+  "new_submission_created": false,
+  "seeds": [
+    42,
+    17,
+    93
+  ],
+  "validation_note": "Repeated development CV for selection; holdout already inspected; leaderboard gain unconfirmed."
+}

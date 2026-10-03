@@ -1,0 +1,11 @@
+{
+  "target_transformation": "StandardScaler fitted on training labels only",
+  "submission_units": "Original sales units (inverse transformed)",
+  "cv_rmse_original_units": 1073.313700645252,
+  "previously_inspected_holdout_rmse": 1069.4165470010676,
+  "max_oof_prediction_difference": 2.1373125491663814e-11,
+  "submission_equivalent_to_previous": true,
+  "full_training_target_mean": 2174.7565737753007,
+  "full_training_target_std": 1697.7704362005234,
+  "test_rows": 1705
+}

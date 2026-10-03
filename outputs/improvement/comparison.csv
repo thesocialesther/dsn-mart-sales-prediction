@@ -1,0 +1,10 @@
+model,oof_rmse
+Store-price spline alpha 1.0,1073.6421072713474
+Equal blend of top three,1075.2763858516494
+CatBoost d4 n350,1078.1939414027474
+CatBoost d3 n450,1079.5362473813443
+Histogram d3,1080.2190187016079
+Original CatBoost,1080.3186937157357
+Histogram d2,1080.3540547022228
+Histogram d4,1081.982855650704
+Store-price spline alpha 10.0,1082.4143177109434

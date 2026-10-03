@@ -1,0 +1,37 @@
+{
+  "selected_model": "CatBoost basic features",
+  "development_oof_rmse": 1080.3186937157357,
+  "holdout_metrics": {
+    "rmse": 1067.239452009752,
+    "mae": 760.8907229647102,
+    "r2": 0.613147621173804
+  },
+  "holdout_baseline_rmse": 1716.8662994066603,
+  "unseen_product_mean_rmse": 1080.348163580068,
+  "seed": 42,
+  "train_rows": 6818,
+  "test_rows": 1705,
+  "features": [
+    "product_code",
+    "product_weight_kg",
+    "fat_content",
+    "shelf_visibility",
+    "product_category",
+    "product_price",
+    "store_code",
+    "store_age_years",
+    "store_size",
+    "store_location_tier",
+    "store_format"
+  ],
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "catboost": "1.2.10",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "cloudpickle": "3.1.2"
+  },
+  "python": "3.14.7"
+}

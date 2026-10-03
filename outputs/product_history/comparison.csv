@@ -1,0 +1,6 @@
+model,rmse
+Product residual shrink 100,1073.313700645252
+Previous spline,1073.6421072713474
+Product residual shrink 20,1074.1796614321158
+CatBoost with product identity,1078.3888435520585
+Product residual shrink 5,1089.5357361314864
