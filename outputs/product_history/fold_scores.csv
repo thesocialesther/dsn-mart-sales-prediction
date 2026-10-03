@@ -1,0 +1,26 @@
+model,fold,rmse
+Previous spline,1,1094.2035911359699
+Previous spline,2,1025.7267301943662
+Previous spline,3,1077.0840609048885
+Previous spline,4,1098.6544632018827
+Previous spline,5,1070.9729679386205
+Product residual shrink 5,1,1113.172825371304
+Product residual shrink 5,2,1038.029738367089
+Product residual shrink 5,3,1094.2634402359686
+Product residual shrink 5,4,1118.5752624025554
+Product residual shrink 5,5,1081.7312504359425
+Product residual shrink 20,1,1094.9572222654497
+Product residual shrink 20,2,1024.9951460586208
+Product residual shrink 20,3,1078.1598270837492
+Product residual shrink 20,4,1100.4933585127746
+Product residual shrink 20,5,1070.6269789328323
+Product residual shrink 100,1,1093.8717136455634
+Product residual shrink 100,2,1025.1146207969484
+Product residual shrink 100,3,1076.8708239848672
+Product residual shrink 100,4,1098.6082743567674
+Product residual shrink 100,5,1070.5137899096978
+CatBoost with product identity,1,1096.4616095672338
+CatBoost with product identity,2,1034.6380702462877
+CatBoost with product identity,3,1090.0630869604176
+CatBoost with product identity,4,1100.7929332256049
+CatBoost with product identity,5,1068.600305765174

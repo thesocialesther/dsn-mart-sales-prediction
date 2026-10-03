@@ -1,0 +1,11 @@
+model,fold,rmse_original_units
+Original target,1,1093.8717136455634
+Original target,2,1025.1146207969484
+Original target,3,1076.8708239848672
+Original target,4,1098.6082743567674
+Original target,5,1070.5137899096978
+Standardized target,1,1093.8717136455632
+Standardized target,2,1025.1146207969484
+Standardized target,3,1076.870823984867
+Standardized target,4,1098.6082743567674
+Standardized target,5,1070.513789909698

@@ -1,0 +1,17 @@
+[
+  {
+    "file": "train.csv",
+    "bytes": 760479,
+    "sha256": "462e461c7285040e074995926e1a91865af56159a858932764db4922935caff2"
+  },
+  {
+    "file": "test.csv",
+    "bytes": 177250,
+    "sha256": "ec4da832435a78185ff3db3ea6f1951e381641315d94a2f61c643d36c7cd2881"
+  },
+  {
+    "file": "sample_submission.csv",
+    "bytes": 30705,
+    "sha256": "762dfc81b11677b5e77d4347cb075160f4a736f79ebe98a84a4bac7b8b758aeb"
+  }
+]
